@@ -1,0 +1,3 @@
+# Local testing overrides
+docker-compose.override.yml
+cs2-db-data
